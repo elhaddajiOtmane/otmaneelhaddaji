@@ -14,17 +14,17 @@ Feel free to browse my repositories.</p>*
 - 🏋🏼‍♀️ I practice strength training 
 - ⚡ Fun fact: I watch carpet cleaning videos 🤫
 - 💬 Ask me about my projects, specific experience or anything else you can think of
-- 📫 How to reach me: sarafer.ramos@gmail.com
+- 📫 How to reach me: elhaddajiotmane@gmail.com
 - 😄 Pronouns: She/Her
 
   
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/64798006/171353046-03eeca1b-9560-4dbe-9947-8a958d6d6477.png"></a>
- ![gorjeo (2)](https://user-images.githubusercontent.com/64798006/171356793-976615e3-437b-4cfa-8751-c1da0456c46a.png) [@Sara_FRr](https://twitter.com/elhaddajiotmane)
+ ![gorjeo (2)](https://user-images.githubusercontent.com/64798006/171356793-976615e3-437b-4cfa-8751-c1da0456c46a.png) [@elhaddajiotmane](https://twitter.com/elhaddajiotmane)
  <br>
- ![linkedin (1)](https://user-images.githubusercontent.com/64798006/171357346-1ede15b1-2837-4a3b-ab8f-978a5baf369c.png) [sara-fernandez-ramos](https://www.linkedin.com/in/sara-fernandez-ramos/)
+ ![linkedin (1)](https://user-images.githubusercontent.com/64798006/171357346-1ede15b1-2837-4a3b-ab8f-978a5baf369c.png) [elhaddajiotmane](https://www.linkedin.com/in/elhaddajiotmane/)
  <br>
- ![instagram](https://user-images.githubusercontent.com/64798006/171358204-5e8da500-d071-4069-83bd-4168baae0147.png) [sara_frr](https://www.instagram.com/elhaddajiotmane)
+ ![instagram](https://user-images.githubusercontent.com/64798006/171358204-5e8da500-d071-4069-83bd-4168baae0147.png) [elhaddajiotmane](https://www.instagram.com/elhaddajiotmane)
    
    
  <hr>
