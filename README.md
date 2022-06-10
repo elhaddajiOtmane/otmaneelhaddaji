@@ -26,7 +26,7 @@
 
 - 📝 I regularly write articles on [http://otmane.cf/](http://otmane.cf/)
 
-- 💬 Ask me about **Python, Haskell, Go, Java, C#, C++, Assembly, Ruby, Perl, Rust, PHP**
+- 💬 Ask me about **Python, Haskell, Go, Java, C#, C++, Assembly, Ru , Perl, Rust, PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
