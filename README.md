@@ -3,8 +3,7 @@
 <center><img align="center" src="https://img.freepik.com/free-vector/code-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-vector-illustration_107791-3766.jpg?t=st=1654893163~exp=1654893763~hmac=d18343236b1fe3d733764330f901a84c4c6e2ae2cdebcc977de8f6c00712f154&w=996" alt="elhaddaji" /></center>
 
 <h3 align="center">
-  I'm a Computer Science student, Eastern University of Sri Lanka. Also a programmer and a blogger. Interested in de-centralized application development. I have studied
-  Computer Science, Cryptography, Computer Architecture and Web app development. Also an open-source enthusiast.
+ Hi. I'm otmane, a web developer. With experience in full stack development as a student of istia ntic coding bootcamp. Email me at:
 </h3>
 
 <p></p><p></p>
