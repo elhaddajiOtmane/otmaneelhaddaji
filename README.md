@@ -35,7 +35,7 @@
 <a href="https://linkedin.com/in/elhaddajiotmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elhaddajiotmane" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17761023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17761023" height="30" width="40" /></a>
 <a href="https://fb.com/elhaddajiotmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elhaddajiotmane" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/elhaddajiotmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="otmane karunarathne" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/elhaddajiotmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="otmane elhaddaji" height="30" width="40" /></a>
 </p>
 
 
