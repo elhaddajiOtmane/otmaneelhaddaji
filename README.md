@@ -33,8 +33,8 @@
 <a href="https://twitter.com/elhaddajiotmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/otmaneelhaddaji/otmaneelhaddaji/88602cd7d3caebf8af6c32715470438b894569c7/img/twitter.svg" alt="elhaddajiotmane" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elhaddajiotmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/otmaneelhaddaji/otmaneelhaddaji/466e0ab2315f4cc924582ba3b6999bb69424ae56/img/linked-in-alt.svg" alt="elhaddajiotmane" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17761023" target="blank"><img align="center" src="https://raw.githubusercontent.com/otmaneelhaddaji/otmaneelhaddaji/185d53a6eb210691f328a4fc1c8012e6a7f00d19/img/stack-overflow.svg" alt="17761023" height="30" width="40" /></a>
-<a href="https://fb.com/elhaddajiotmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elhaddajiotmane" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/elhaddajiotmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="otmane elhaddaji" height="30" width="40" /></a>
+<a href="https://fb.com/elhaddajiotmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/otmaneelhaddaji/otmaneelhaddaji/8773d2437df28dbd67f7a8df13670e0d68773557/img/facebook.svg" alt="elhaddajiotmane" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/elhaddajiotmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/otmaneelhaddaji/otmaneelhaddaji/41d6e0fec740196f1c0273a568450ceb4fa674ef/img/youtube.svg" alt="otmane elhaddaji" height="30" width="40" /></a>
 </p>
 
 
