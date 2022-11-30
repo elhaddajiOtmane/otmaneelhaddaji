@@ -23,9 +23,9 @@
 
 - 🌱 I’m currently learning **Node.js, React, Vue**
 
-- 📝 I regularly write articles on [http://otmane.cf/](http://elhaddaji-otmane.netlify.app/)
+- 📝 I regularly write articles on [http://ooskoo.com/](http://ooskoo.com/)
 
-- 💬 Ask me about **PHP, Haskell, Go, Laravel, C#, C++, Pyhone, Ru , Perl, Rust, PHP**
+- 💬 Ask me about **PHP, javascript, ReactJs, Laravel, NodeJs,Sql, Pyhone, MangoDb , Flask, Vue.js, **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
