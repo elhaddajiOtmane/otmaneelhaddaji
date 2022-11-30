@@ -3,7 +3,7 @@
 <center><img  src="https://i.ibb.co/f0cPjP6/1.png" alt="creation site web maroc" /></center>
 
 <h3 align="center">
- Hi. I'm otmane, a web developer. With experience in full stack development as a student of istia ntic coding bootcamp. Email me at:
+ Hi, I'm Otmane, a web developer with experience in full-stack development. I am a recent graduate of ISTIA NTIC Coding Bootcamp, where I have gained the necessary knowledge and skills to develop dynamic and engaging web applications. I am highly motivated to use my expertise to create innovative solutions to challenging problems. If you would like to discuss a project or have any questions, please feel free to reach out to me via email. I look forward to hearing from you.
 </h3>
 
 <p></p><p></p>
