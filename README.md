@@ -57,7 +57,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="dilshankarunarathne" />    
 <p></p>
 
-<img align="center" src="![GitHub Stats](https://github-readme-stats.vercel.app/api?otmaneelhaddaji= &theme=radical)" alt="dilshankarunarathne" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=elhaddajiotmane&theme=radical" alt="otmane el haddaji" />
 <p></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshankarunarathne&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dilshankarunarathne" /></p>
