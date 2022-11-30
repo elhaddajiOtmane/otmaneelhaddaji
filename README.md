@@ -1,6 +1,6 @@
 <h1 align="center">elhaddaji otmane</h1>
 
-<center><img align="right" src="https://i.ibb.co/f0cPjP6/1.png" alt="creation site web maroc" /></center>
+<center><img  src="https://i.ibb.co/f0cPjP6/1.png" alt="creation site web maroc" /></center>
 
 <h3 align="center">
  Hi. I'm otmane, a web developer. With experience in full stack development as a student of istia ntic coding bootcamp. Email me at:
