@@ -54,7 +54,7 @@
 <div align="center">
 
 <p></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="dilshankarunarathne" />    
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otmaneelhaddaji&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="dilshankarunarathne" />    
 <p></p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=elhaddajiotmane&theme=radical" alt="otmane el haddaji" />
